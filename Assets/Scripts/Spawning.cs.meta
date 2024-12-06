@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2c9f096a3fe74304dab8663d815358e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smallAsteroid: {fileID: 3005551489927028688, guid: 350b29520e18dc8498d58d877dd6f89b, type: 3}
+  - rockAsteroid: {fileID: 4321802918930320240, guid: 17cab33e9aebed945812767d16b8c02f, type: 3}
+  - iceAsteroid: {fileID: 1674518748339950628, guid: 8abfc525e0d4ab64684a62217ad35351, type: 3}
+  - metalAsteroid: {fileID: 504380210082396223, guid: aff90b52ea402684cb49944df428a3f1, type: 3}
+  - shield: {fileID: 4086599459689307339, guid: 5c684bcc4d0c41643bb4f51341785f98, type: 3}
+  - decelerator: {fileID: 8922841906261411953, guid: 2606b9772f1d49b4e8d8833fa7dc588f, type: 3}
+  - supercharger: {fileID: 1470513466630646534, guid: c45c250d0fec68d4e9fdb39fe3f64ff8, type: 3}
+  - energyRefill: {fileID: 5011590035382588963, guid: f3dee34f2557f104cb8828eb7b43ba19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
